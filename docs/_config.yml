@@ -1,31 +1,31 @@
 remote_theme: dieghernan/chulapa
 
 
-repository: dieghernan/chulapa
-url: "https://dieghernan.github.io"
-baseurl: "/chulapa"
+repository: fmetze/florian-home
+url: "https://fmetze.github.io"
+baseurl: "/florian-home"
 
 title: Florian Metze
 subtitle: Welcome
-description: Template for creating free sites on Github Pages
+description: Modeled on template for creating free sites on Github Pages
 og_image: "./assets/img/site/banner.png"
 twitter_site: dhernangomez
 timezone: "America/New_York"
 author:
-  name: dieghernan
+  name: fmetze
   avatar: ./assets/img/site/dieghernan-avatar.png
-  location: Madrid, Spain
+  location: New York, U.S.
   links:
-    - url: https://github.com/dieghernan/
+    - url: https://github.com/fmetze/
       icon: "fab fa-github"
       label: GitHub
-    - url: https://dieghernan.github.io/
+    - url: https://fmetze.github.io/
       icon: fas fa-blog
       label: Blog
-    - url: https://stackoverflow.com/users/7877917/dieghernan
-      icon: "fab fa-stack-overflow"
-      label: StackOverflow
-gtag_id:  UA-139034853-5
+#    - url: https://stackoverflow.com/users/7877917/dieghernan
+#      icon: "fab fa-stack-overflow"
+#      label: StackOverflow
+#gtag_id:  UA-139034853-5
 #search:
 #  provider: algolia
 #  algolia_logo: true
@@ -58,7 +58,7 @@ gtag_id:  UA-139034853-5
 #  cusdis_app_id: "ba6333c9-c7b1-4578-a932-e9ee3e71f120"
 #  website_id: "XaFqz82GQETRJnLi7verVsyBS" 
 
-google_cse_id: 002514516175957445995:tvgnhtemtbu
+#google_cse_id: 002514516175957445995:tvgnhtemtbu
 
 # B. Navigation
 navbar:
@@ -118,7 +118,7 @@ navbar:
       - title: Contribute
         url: /contribute
       - title: Changelog
-        url: https://github.com/dieghernan/chulapa/blob/master/CHANGELOG.md
+        url: https://github.com/fmetze/florian-home/blob/master/CHANGELOG.md
 footer:
   links:
     - label: "RSS"
@@ -126,11 +126,12 @@ footer:
       url:  "./atom.xml"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: https://github.com/dieghernan/
+      url: https://github.com/fmetze/
     - label: "My blog"
       icon: "fas fa-blog"
-      url: "https://dieghernan.github.io/"
-  copyright: "&copy; 2021 <span class='chulapa'>Chulapa</span> developers"
+      url: "https://fmetze.github.io/"
+  copyright: "&copy; 2023"
+  #<span class='chulapa'>Chulapa</span> developers"
 
 # C. Theme Settings
 chulapa-skin:
